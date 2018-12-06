@@ -56,7 +56,7 @@ author:
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: dangjun625/dangjun625.github.io
-repository_tree: master
+repository_tree: gh-pages #master
 
 
 ## => Paths
@@ -127,12 +127,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 143666b578a416f82175
-    clientSecret: 1d1c0604a1a4bff9b59ab7f56724dc0e8b837775
-    repository  : gitalk-demo
-    owner       : kitian616
+    clientID    : 
+    clientSecret: 
+    repository  : 
+    owner       : 
     admin:
-      - kitian616
+      - 
 
 
 ## => Pageview
